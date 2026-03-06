@@ -1,14 +1,16 @@
-# Myntra Fashion Product Analysis
+# Data Analysis of Myntra Fashion dataset using python
 
 ## Project Overview
 This project analyzes Myntra fashion product data to understand
 pricing patterns, brand distribution and product ratings.
 
 ## Tools Used
-Python
-Pandas
-Matplotlib
-Seaborn
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter notebook
+
 
 ## Analysis Performed
 - Data cleaning and preprocessing
@@ -25,13 +27,16 @@ Seaborn
 ## Visualizations
 
 ### Brand vs Average Rating
-![Brand vs Rating](brand vs avg_rating.png)
+[Brand_vs_Rating](Brand_vs_Avg_Rating.png)
 
 ### Price Distribution
-![Price Distribution](price distribution.png)
+[Price_Distribution](Price_Distribution.png)
 
 ### Brand Frequency
-![Brand Frequency](frequency of brand.png)
+[Brand_Frequency](Frequency_of_Brand.png)
 
 ### Colour Distribution
-![Colour Distribution](colour distribution.png)
+[Colour_Distribution](Colour_Distribution.png)
+
+### Brand vs Price
+[Brand_vs_Price](Brand_vs_Price.png)
