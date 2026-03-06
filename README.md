@@ -22,7 +22,7 @@ Seaborn
 - Discounted products tend to receive higher ratings
 - Mid-range priced products are most common
 
-- ## Visualizations
+## Visualizations
 
 ### Brand vs Average Rating
 ![Brand vs Rating](brand vs avg_rating.png)
