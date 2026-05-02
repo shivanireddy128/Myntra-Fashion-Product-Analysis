@@ -1,42 +1,63 @@
-# Data Analysis of Myntra Fashion dataset using python
+# Myntra Product Analysis Dashboard
 
-## Project Overview
-This project analyzes Myntra fashion product data to understand
-pricing patterns, brand distribution and product ratings.
+##  Project Overview
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter notebook
+This project analyzes Myntra fashion product data to uncover insights related to pricing, brand performance, customer ratings, and product distribution across occasions and materials.
 
+The goal is to simulate a real-world e-commerce analysis scenario using SQL and Power BI.
 
-## Analysis Performed
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Price distribution analysis
-- Brand popularity analysis
-- Rating distribution analysis
+---
 
-## Key Insights
-- Certain brands dominate product listings
-- Discounted products tend to receive higher ratings
-- Mid-range priced products are most common
+##  Tools & Technologies
 
-## Visualizations
+* Python (Pandas, NumPy) – Data Cleaning
+* MySQL – Data Analysis
+* Power BI – Dashboard & Visualization
 
-### Brand vs Average Rating
-[Brand_vs_Rating](Brand_vs_Avg_Rating.png)
+---
 
-### Price Distribution
-[Price_Distribution](Price_Distribution.png)
+##  Key Analysis Performed
 
-### Brand Frequency
-[Brand_Frequency](Frequency_of_Brand.png)
+* Top brands based on product count
+* Average price comparison across brands
+* Customer rating analysis
+* Occasion-wise product distribution
+* Price distribution trends
 
-### Colour Distribution
-[Colour_Distribution](Colour_Distribution.png)
+---
 
-### Brand vs Price
-[Brand_vs_Price](Brand_vs_Price.png)
+##  Key Insights
+
+* Roadster has the highest number of products, indicating strong market presence
+* Premium brands like Moksha Designs have significantly higher average prices
+* Majority of products fall within the mid-price range (~₹2964)
+* Average customer rating is high (~4.14), showing generally positive feedback
+* Casual wear dominates product listings, indicating higher demand
+
+---
+
+##  Files Included
+
+* myntra_analysis.sql→ SQL queries used for analysis
+* myntra_dashboard.pbix → Power BI dashboard file
+* myntra_data_analysis.ipynb → Data cleaning and preprocessing
+
+---
+
+##  What This Project Demonstrates
+
+* End-to-end data analysis workflow
+* Data cleaning → SQL analysis → Visualization
+* Ability to extract business insights from raw data
+* Dashboard design and storytelling
+
+---
+
+##  Future Improvements
+
+* Add time-based analysis if data available
+* Build predictive models for price/rating trends
+* Deploy dashboard online
+
+---
+
